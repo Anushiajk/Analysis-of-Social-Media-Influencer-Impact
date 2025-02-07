@@ -1,0 +1,101 @@
+Influencer_ID,Name,Followers,Post_ID,Post_Content,Post_Timestamp,Likes,Comments,Shares,Sentiment_Score,Category,Collaboration,Brand_Impact
+123456,Amina Diop,250000,12345,"Exploring the vibrant streets of Dakar, Senegal! #Travel #Wanderlust",2022-03-15T12:30:00Z,1000,50,30,0.3,Travel,No,Neutral
+987654,Raul Garcia,120000,67890,Just finished a workout at the gym! Feeling strong and energized #Fitness #Motivation,2022-03-16T09:00:00Z,700,40,20,0.7,Fitness,No,Neutral
+135798,Sara Khan,300000,13579,Cooking up a storm in the kitchen with my favorite spices #Foodie #Cooking,2022-03-17T15:30:00Z,1500,80,40,0.5,Food,No,Neutral
+246801,Lila Chen,450000,24680,Discovering the beauty of traditional Chinese calligraphy #Art #Culture,2022-03-18T10:00:00Z,1200,60,30,0.4,Art,No,Neutral
+567890,Kevin Nguyen,200000,56789,Exploring the bustling markets of Ho Chi Minh City #Travel #Adventure,2022-03-19T14:00:00Z,900,50,20,0.6,Travel,No,Neutral
+876543,Aisha Ali,180000,87654,Trying out the latest vegan recipes! #Foodie #Vegan,2022-03-20T08:30:00Z,600,30,15,0.8,Food,No,Neutral
+345678,Mateo Rodriguez,150000,34567,Learning about the ancient ruins of Machu Picchu #Travel #History,2022-03-21T13:00:00Z,800,40,20,0.5,Travel,No,Neutral
+987654,Raul Garcia,120000,67891,Sharing my favorite workout playlist! #Fitness #Music,2022-03-22T09:00:00Z,650,35,25,0.7,Fitness,No,Neutral
+135798,Sara Khan,300000,13579,Cooking up a storm in the kitchen with my favorite spices #Foodie #Cooking,2022-03-23T15:30:00Z,1550,85,45,0.5,Food,No,Neutral
+246801,Lila Chen,450000,24681,Discovering the beauty of traditional Chinese calligraphy #Art #Culture,2022-03-24T10:00:00Z,1250,65,35,0.4,Art,No,Neutral
+567890,Kevin Nguyen,200000,56789,Exploring the bustling markets of Ho Chi Minh City #Travel #Adventure,2022-03-25T14:00:00Z,950,55,25,0.6,Travel,No,Neutral
+876543,Aisha Ali,180000,87654,Trying out the latest vegan recipes! #Foodie #Vegan,2022-03-26T08:30:00Z,620,32,17,0.8,Food,No,Neutral
+345678,Mateo Rodriguez,150000,34567,Learning about the ancient ruins of Machu Picchu #Travel #History,2022-03-27T13:00:00Z,820,42,22,0.5,Travel,No,Neutral
+123456,Aisha Ibrahim,150000,12345,Exploring the vibrant colors of Marrakech. #Morocco #Travel #Wanderlust,2022-05-10 14:30:00,3000,50,200,0.2,Travel,No,Neutral
+7891011,Rajesh Patel,200000,67890,Trying out the latest gadgets from Sony. #Tech #Gadgets #Innovation,2022-05-11 10:00:00,2500,75,300,0.5,Tech,Yes,Increased
+3456789,Sofia Garcia,180000,56789,Feeling inspired by the beauty of nature in Banff. #Canada #Nature #Adventure,2022-05-12 16:00:00,4000,100,400,0.3,Travel,No,Neutral
+9876543,Kim Nguyen,220000,87654,Learning to cook authentic Vietnamese dishes. #Food #Cooking #VietnameseCuisine,2022-05-13 08:00:00,3000,80,350,0.6,Food,Yes,Increased
+1357901,Hiroshi Tanaka,160000,98765,Discovering the rich culture of Japan. #Japan #Culture #Travel,2022-05-14 12:00:00,2000,60,250,0.4,Travel,No,Neutral
+1001,Aisha Ahmed,500000,123456,Exploring the beautiful city of Marrakech. #travel #morocco #wanderlust,2022-06-15 14:30:00,1200,50,30,0.2,Travel,No,Neutral
+1002,Rajesh Patel,250000,7891011,Just finished a workout session at the gym. Feeling great! #fitness #health,2022-06-16 08:45:00,800,35,25,0.8,Fitness,No,Neutral
+1003,Sofia Garcia,1000000,3456789,Trying out the latest tech gadgets. #tech #innovation,2022-06-17 12:00:00,1500,70,50,0.5,Tech,Yes,Increased
+1004,Karen Kim,750000,9876543,Enjoying a delicious vegan meal at my favorite restaurant. #foodie #vegan,2022-06-18 09:30:00,1000,60,40,0.3,Food,No,Neutral
+1005,Hiroshi Tanaka,300000,1112233,Exploring the beautiful gardens of Kyoto. #japan #travel,2022-06-19 16:15:00,900,45,35,0.7,Travel,No,Neutral
+1006,Zainab Yusuf,600000,4567890,Cooking up a storm in the kitchen. #foodie #cooking,2022-06-20 10:00:00,1100,75,55,0.4,Food,No,Neutral
+1007,Miguel Rodriguez,800000,2345678,Exploring the beautiful beaches of Bali. #travel #indonesia,2022-06-21 14:30:00,1300,80,60,0.6,Travel,No,Neutral
+1008,Clara Nguyen,400000,8765432,Just finished a yoga session. Feeling calm and refreshed. #yoga #wellness,2022-06-22 08:45:00,700,45,30,0.9,Wellness,No,Neutral
+1009,Sophie Chen,1200000,5678901,Trying out the latest fashion trends. #fashion #style,2022-06-23 12:00:00,1600,80,60,0.5,Fashion,Yes,Increased
+1010,Alexander Lee,900000,3456789,Exploring the beautiful mountains of Switzerland. #travel #switzerland,2022-06-24 16:15:00,1400,85,70,0.8,Travel,No,Neutral
+12345678,Aisha Ibrahim,100000,987654321,Exploring the beautiful beaches of Maldives. Wish you were here! #Maldives #Travel #Adventure,2022-06-01T14:30:00Z,1500,50,200,0.5,Travel,Yes,Increased
+12345678,Aisha Ibrahim,100000,987654322,Trying out the new vegan burger at Green Garden. Delicious! #Vegan #Foodie #SustainableLiving,2022-06-02T09:15:00Z,1200,60,150,0.7,Food,No,Neutral
+987654321,John Doe,500000,123456789,New tech gadget alert! Check out the latest smartwatch from Apple. #Tech #Apple #Wearable,2022-06-04T10:00:00Z,2500,100,300,0.6,Tech,Yes,Increased
+987654321,John Doe,500000,123456789,My favorite coffee spot in New York City. #Coffee #NYC #Cafes,2022-06-05T14:30:00Z,1800,80,200,0.8,Food,No,Neutral
+987654321,John Doe,500000,123456789,My favorite workout routine for a strong core. #Fitness #Motivation #Workout,2022-06-07T16:45:00Z,1900,80,280,0.9,Fitness,No,Neutral
+23456789,Sophia Ahmed,300000,34567890,Discovering the hidden gems of Morocco. #Travel #Adventure #Culture,2022-06-08T10:00:00Z,1700,70,220,0.6,Travel,Yes,Increased
+23456789,Sophia Ahmed,300000,34567891,My favorite plant-based recipe for a delicious dinner. #Vegan #Foodie #SustainableLiving,2022-06-09T14:30:00Z,1300,60,180,0.8,Food,No,Neutral
+34567890,Alex Kim,700000,45678901,Newest gaming console from Sony. #Gaming #PlayStation #Tech,2022-06-11T10:00:00Z,2800,130,400,0.6,Tech,Yes,Increased
+34567890,Alex Kim,700000,45678902,My favorite Korean BBQ restaurant in Los Angeles. #Food #KoreanCuisine #LA,2022-06-12T14:30:00Z,1900,90,270,0.8,Food,No,Neutral
+12345678,Aisha Yusuf,120000,987654321,Just tried out this new vegan restaurant in London. Delicious! #veganfood #foodie #London,2022-06-15T14:30:00Z,350,23,12,0.2,Food & Beverage,False,Neutral
+23456789,Rajesh Patel,250000,123456789,Exploring the ancient ruins of Machu Picchu. Breathtaking! #travel #adventure #Peru,2022-06-14T10:00:00Z,400,30,15,0.3,Travel,False,Increased
+45678901,Khalid Ahmed,150000,234567890,Reading this new book on AI ethics. Thoughts? #AI #ethics #technology,2022-06-12T08:00:00Z,250,20,10,0.4,Technology,False,Neutral
+56789012,Mia Kim,200000,345678901,Trying out this new fitness routine. Challenging but fun! #fitness #workout #health,2022-06-11T12:00:00Z,300,25,13,0.5,Fitness,False,Increased
+67890123,Lena Gomez,350000,456789012,Loving this new music festival in Berlin. Amazing vibes! #music #festival #Germany,2022-06-10T18:00:00Z,550,40,20,0.6,Music,False,Neutral
+78901234,Hassan Ali,180000,567890123,Trying out this new coffee shop in Toronto. Delicious! #coffee #cafe #Canada,2022-06-09T14:00:00Z,300,22,10,0.7,Food & Beverage,False,Neutral
+89012345,Grace Chen,220000,678901234,Just finished watching this new Korean drama. Highly recommend! #Kdrama #TV #SouthKorea,2022-06-08T10:00:00Z,450,35,15,0.8,Entertainment,False,Increased
+90123456,Daniel Rodriguez,170000,789012345,Experimenting with this new art style. Excited to see where it leads! #art #creativity #Mexico,2022-06-07T16:00:00Z,350,28,12,0.9,Art,False,Neutral
+101234567,Fatima Ahmed,280000,890123456,Loving this new podcast on mental health. Insightful! #mentalhealth #podcast #USA,2022-06-06T08:00:00Z,500,35,15,0.1,Health,False,Increased
+112345678,Karen Lee,250000,987654321,Tried out this new skincare line. Definitely a game changer! #skincare #beauty #USA,2022-06-15T14:30:00Z,400,30,15,0.2,Fashion,True,Decreased
+134567890,Aisha Patel,280000,123456789,Just finished reading this new book on AI ethics. Thoughts? #AI #ethics #technology,2022-06-13T16:00:00Z,550,40,18,0.4,Technology,False,Increased
+1,Aisha Nguyen,345000,12345,"Exploring the beautiful streets of Hanoi, Vietnam! 🇻🇳 #travel #explore #vietnam",2022-06-01T12:34:56Z,1200,50,10,0.6,Travel,No,Neutral
+3,Sofia Garcia,456000,67890,Trying out this new vegan burger recipe! Delicious! #food #vegan #cooking,2022-06-03T15:30:01Z,1800,80,15,0.9,Food,No,Neutral
+1,Aisha Ali,50000,1,Exploring the beautiful streets of Marrakech 🏙️🇲🇦 #Travel #Morocco #Wanderlust,2022-03-01 14:30:00,300,25,10,0.2,Travel,,Neutral
+1,Aisha Ali,50000,2,Trying out the latest vegan burger at @GreenBites 🍔🌱 #Foodie #Vegan #SustainableLiving,2022-03-02 12:00:00,250,15,5,0.3,Food,Yes,Increased
+2,Ravi Singh,80000,3,Learning about the rich history of the Taj Mahal 🏙️🇮🇳 #Heritage #India #Culture,2022-03-03 16:00:00,400,30,12,0.1,Travel,,Neutral
+2,Ravi Singh,80000,4,Discovering the newest tech gadgets at @TechWorld 💻 #Tech #Innovation #Gadgets,2022-03-04 10:00:00,350,20,8,0.4,Tech,Yes,Increased
+3,Sofia Garcia,60000,5,Experiencing the breathtaking views of Bali 🌴🇮🇸 #Travel #Asia #Adventure,2022-03-05 13:00:00,280,20,8,0.2,Travel,,Neutral
+3,Sofia Garcia,60000,6,Trying out the newest fashion trends at @StyleSavvy 👗 #Fashion #Style #Trends,2022-03-06 11:00:00,320,18,6,0.3,Fashion,Yes,Increased
+4,Kim Nguyen,70000,7,Exploring the vibrant streets of Saigon 🏙️🇻🇳 #Travel #Vietnam #CityLife,2022-03-07 15:00:00,380,25,10,0.1,Travel,,Neutral
+4,Kim Nguyen,70000,8,Trying out the latest fitness trends at @FitLife 🏋️ #Fitness #Health #Wellness,2022-03-08 12:00:00,300,18,6,0.4,Fitness,Yes,Increased
+5,Mohammed Ahmed,90000,9,Discovering the ancient history of Egypt 🏙️🇪🇬 #Heritage #Culture #Egypt,2022-03-09 14:00:00,450,35,12,0.1,Travel,,Neutral
+5,Mohammed Ahmed,90000,10,Trying out the newest gaming console at @GameWorld 🕹️ #Gaming #Tech #Console,2022-03-10 10:00:00,320,18,6,0.4,Tech,Yes,Increased
+6,Grace Kim,55000,11,Experiencing the beauty of the Northern Lights 💡🇳🇱 #Nature #Norway #Aurora,2022-03-11 13:00:00,260,15,7,0.2,Travel,,Neutral
+7,Liam Johnson,45000,12,Discovering the wonders of the Amazon Rainforest 🌳🇧🇷 #Nature #Biodiversity #Adventure,2022-03-13 15:00:00,390,28,10,0.1,Travel,,Neutral
+7,Liam Johnson,45000,13,Trying out the newest music releases at @MusicMood 🎶 #Music #NewReleases #Tunes,2022-03-14 12:00:00,340,20,7,0.4,Music,Yes,Increased
+1,Amina Diop,120000,1,Just finished a beautiful hike in the Atlas Mountains! The view from the top was breathtaking. #Nature #Travel #Morocco,2022-03-05 10:30:00,250,10,5,0.6,Travel,,Neutral
+2,Ravi Patel,350000,2,Tried the newest vegan burger at @GreenBitesVegan and it was a game changer! So delicious. #Vegan #Food #LA,2022-03-06 14:20:00,700,25,10,0.8,Food,True,Increased
+3,Xiao Mei,50000,3,Exploring the ancient temples in China. History is so fascinating. #Culture #Travel #China,2022-03-07 08:45:00,180,8,4,0.7,Travel,,Neutral
+4,Federico Rodriguez,70000,4,The new tech gadget I got my hands on is amazing! #Tech #Gadgets #Spain,2022-03-08 11:15:00,300,12,6,0.9,Tech,,Neutral
+5,Sophia Owusu,85000,5,Loving this new fashion trend! So comfortable and stylish. #Fashion #Style #Ghana,2022-03-09 15:30:00,400,15,7,0.7,Fashion,,Neutral
+6,Lena Kwon,100000,6,The sunset in Bali was absolutely breathtaking. #Travel #Nature #Indonesia,2022-03-10 09:00:00,350,12,6,0.8,Travel,,Neutral
+7,Mateo Garcia,110000,7,The new art exhibit in Mexico City is a must-see! #Art #Culture #Mexico,2022-03-11 13:45:00,450,18,8,0.8,Art,,Neutral
+8,Aisha Ahmed,90000,8,Just tried the newest vegan dish at @GreenBitesVegan and it was delicious! #Food #Vegan #Nigeria,2022-03-12 10:30:00,500,20,10,0.8,Food,True,Increased
+9,Kai Chen,65000,9,Exploring the ancient temples in Japan. History is so fascinating. #Culture #Travel #Japan,2022-03-13 08:45:00,220,10,5,0.7,Travel,,Neutral
+10,Julio Lopez,40000,10,The new tech gadget I got my hands on is amazing! #Tech #Gadgets #Argentina,2022-03-14 11:15:00,180,8,4,0.9,Tech,,Neutral
+11,Nia White,30000,11,Loving this new fashion trend! So comfortable and stylish. #Fashion #Style #USA,2022-03-15 15:30:00,250,12,6,0.7,Fashion,,Neutral
+12,James Brown,25000,12,The sunset in Australia was absolutely breathtaking. #Travel #Nature #Australia,2022-03-16 09:00:00,200,8,4,0.8,Travel,,Neutral
+13,Grace Kim,15000,13,The new art exhibit in South Korea is a must-see! #Art #Culture #SouthKorea,2022-03-17 13:45:00,150,6,3,0.8,Art,,Neutral
+14,Tariq Ahmed,12000,14,Just tried the newest vegan dish at @GreenBitesVegan and it was delicious! #Food #Vegan #Pakistan,2022-03-18 10:30:00,120,7,3,0.8,Food,True,Increased
+15,Mira Patel,18000,15,Exploring the ancient temples in India. History is so fascinating. #Culture #Travel #India,2022-03-19 08:45:00,280,14,7,0.7,Travel,,Neutral
+1,Aisha Ali,50000,1001,Exploring the beautiful landscapes of Morocco! #Travel #Morocco #Wanderlust. Loved the camel ride!,2022-03-10T12:34:56Z,150,20,10,0.7,Travel,No,Neutral
+1,Aisha Ali,50000,1002,Just tried this amazing vegan burger from @plantbasedcafe! Delicious and healthy. #Foodie #Vegan,2022-03-12T09:15:23Z,200,30,15,0.8,Food,No,Neutral
+2,Juan Rodriguez,75000,2001,Today I'm sharing my favorite workout routine using @fitbit! #Fitness #Workout #Fitbit,2022-03-11T15:47:39Z,300,40,20,0.6,Fitness,Yes,Increased
+2,Juan Rodriguez,75000,2002,Making the most of the sunshine today! #Outdoor #Nature #Sunshine,2022-03-13T11:20:16Z,250,35,18,0.9,Outdoor,No,Neutral
+3,Sophia Kim,80000,3001,Reviewing the latest tech gadget from @samsung! #Tech #Review #Samsung,2022-03-10T16:02:58Z,180,25,12,0.7,Tech,Yes,Increased
+3,Sophia Kim,80000,3002,My favorite coffee spot in Seoul! #Coffee #Seoul #Korea,2022-03-12T10:45:34Z,120,15,8,0.8,Food,No,Neutral
+4,Emily Chen,90000,4001,Exploring the hidden gems of New York City! #NYC #Explore #Citylife,2022-03-11T13:30:12Z,220,32,17,0.6,Travel,No,Neutral
+4,Emily Chen,90000,4002,Loving this new book by @juliaalvarez! #Booklover #Literature #JuliaAlvarez,2022-03-13T09:05:49Z,160,23,10,0.8,Books,No,Neutral
+5,Raj Patel,60000,5001,Trying out the latest tech gadget from @apple! #Tech #Review #Apple,2022-03-10T14:18:26Z,190,28,13,0.7,Tech,Yes,Increased
+5,Raj Patel,60000,5002,Exploring the beautiful landscapes of India! #Travel #India #Wanderlust. Loved the elephant ride!,2022-03-12T11:52:53Z,170,22,11,0.8,Travel,No,Neutral
+6,Maria Gonzalez,55000,6001,Just tried this amazing vegan taco from @tacotronica! Delicious and authentic. #Foodie #Vegan,2022-03-11T16:30:01Z,210,33,16,0.8,Food,No,Neutral
+6,Maria Gonzalez,55000,6002,Making the most of the sunshine today! #Outdoor #Nature #Sunshine,2022-03-13T12:05:48Z,240,38,19,0.9,Outdoor,No,Neutral
+7,Hiroshi Tanaka,70000,7001,Reviewing the latest video game from @nintendo! #Gaming #Review #Nintendo,2022-03-10T17:23:35Z,200,30,15,0.7,Gaming,Yes,Increased
+7,Hiroshi Tanaka,70000,7002,My favorite sushi spot in Tokyo! #Sushi #Tokyo #Japan,2022-03-12T10:58:22Z,150,20,10,0.8,Food,No,Neutral
+1001,Amina Diop,500000,123456,"Exploring the vibrant streets of Dakar, Senegal. #travel #africanheritage",2022-08-01 10:30:00,2500,50,30,Positive,Travel,No,Neutral
+1003,Sanaa Khan,600000,789012,Embracing the beauty of nature in the Swiss Alps. #naturelovers #outdooradventures,2022-08-03 15:00:00,2000,60,35,Positive,Travel,No,Neutral
+1005,Mariam N'Guessan,700000,345678,Discovering the rich history of Ghana. #africanheritage #culture,2022-08-05 11:30:00,2200,70,35,Positive,Travel,No,Increased
+1007,Sophia Kim,1000000,987654,Exploring the ancient temples of Angkor Wat. #travel #cambodia,2022-08-07 07:30:00,3500,90,60,Positive,Travel,No,Neutral
+1009,Mohamed Ahmed,1200000,111223,Exploring the stunning landscapes of Iceland. #naturelovers #iceland,2022-08-09 13:00:00,3000,80,50,Positive,Travel,No,Neutral
+1001,Amina Diop,125000,100101,Exploring the stunning beauty of Senegal 🌍💛 #Travel #Senegal #AfricanHeritage,2022-03-01T10:30:00Z,345,12,5,0.2,Travel,No,Neutral
+1,Aisha Yusuf,50000,1,Exploring the beautiful landscapes of Nigeria! 🇳🇬 #Travel #Nigeria,2022-08-15T12:34:56Z,1500,50,100,0.3,Travel,No,Neutral
+2,Ravi Patel,100000,2,Cooking up a storm with Indian spices! 🇮🇳 #Food #India,2022-08-16T09:45:23Z,2000,75,150,0.5,Food,No,Increased

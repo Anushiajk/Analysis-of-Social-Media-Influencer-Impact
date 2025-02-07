@@ -1,0 +1,36 @@
+/* Custom styles for the Dash app */
+
+/* Spacing for the "Go to Analysis" button */
+.home-page .go-to-analysis {
+    margin-bottom: 40px; /* Adjust space below the button */
+}
+
+/* Styles for the brand impact section */
+.brand-impact-section {
+    margin-top: 40px; /* Space above the calculation area */
+    padding: 20px;
+    border: 1px solid #dee2e6; /* Border around the section */
+    border-radius: 8px;
+    background-color: #f8f9fa; /* Background color */
+}
+
+/* Styles for the icon and header in the brand impact section */
+.brand-impact-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px; /* Space below the icon and header */
+}
+
+.brand-impact-header i {
+    margin-right: 10px; /* Space between icon and text */
+}
+
+.brand-impact-output {
+    font-size: 16px;
+    color: #343a40;
+}
+
+/* Styles for the output of the graph area */
+.analysis-graph-container {
+    margin-top: 40px;
+}
